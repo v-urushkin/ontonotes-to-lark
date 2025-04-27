@@ -1,0 +1,6 @@
+datasets
+nltk>=3.8.1
+pandas
+svgling
+tqdm
+notebook
